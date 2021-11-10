@@ -1,0 +1,92 @@
+body {
+    max-width: 960px;
+    margin: 0 auto;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+.section1 {
+    
+    display: block;
+    width: 100%;
+    float: left;
+    clear: both;
+    flex-wrap: wrap;
+    
+
+}
+.section2 {
+    
+    flex-wrap: wrap;
+    width: 100%;
+    float: right;
+}
+
+ img {
+    object-fit: cover;
+    width: 100%;
+} 
+
+
+
+
+.accordian {
+    width: 100%;
+}
+
+.accordian .box {
+    width:100%;
+    position: relative;
+    list-style: none;
+}
+
+a.title1 {
+    display: block;
+    width: 100%;
+    position: relative;
+    background-color: darkseagreen;
+    text-align: center; 
+    font-size: 2em;
+    color: #fff;
+}
+
+.content {
+    
+    font-size: 2em;
+    text-align: center;
+    background-color: #fff;
+    
+
+}
+
+.tab li {
+    display: block;
+    width: 33.33%;
+    list-style: none;
+    text-align: center;
+    float: left;
+    
+    
+}
+.tabAnchor {
+    
+    margin: 0 2px 0 0;
+    display: block;
+    background-color: seagreen;
+    color: white;
+}
+
+.panel2 {
+    display: none;
+    background-color: white;
+    text-align: center;
+    padding: 2px;
+    font-size:  2em;
+}
+
+.panel2.active {
+    display: block;
+    
+}
