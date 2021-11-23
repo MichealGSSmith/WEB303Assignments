@@ -1,0 +1,74 @@
+{
+    "SAO_charecters": [
+        {
+            "FirstName": "Kirigaya",
+            "LastName": "Kazuto",
+            "AvatarName": "Kirito",
+            "Gender": "Male"
+
+        },
+        {
+            "FirstName": "Yuki",
+            "LastName": "Asuna",
+            "AvatarName": "Asuna",
+            "Gender": "Female"
+
+        },
+        {
+            "FirstName": "Yui",
+            "LastName": "N/A",
+            "AvatarName": "Yui-MHCP001",
+            "Gender": "Female/A.I"
+
+        },
+        {
+            "FirstName": "Tsuboi",
+            "LastName": "Ryotaro",
+            "AvatarName": "Klein",
+            "Gender": "Male"
+
+        },
+        {
+            "FirstName": "Kirigaya",
+            "LastName": "Suguha",
+            "AvatarName": "Leafa",
+            "Gender": "female"
+
+        },
+        {
+            "FirstName": "Kikuoka",
+            "LastName": "Seijiro",
+            "AvatarName": "Kurisuhaito",
+            "Gender": "Male"
+
+        },
+        {
+            "FirstName": "Alice",
+            "LastName": "Zuberg",
+            "AvatarName": "N/A",
+            "Gender": "female"
+
+        },
+        {
+            "FirstName": "Asada",
+            "LastName": "Shino",
+            "AvatarName": "Sinon",
+            "Gender": "female"
+
+        },
+        {
+            "FirstName": "Yujio",
+            "LastName": "N/A",
+            "AvatarName": "N/A",
+            "Gender": "Male"
+
+        },
+        {
+            "FirstName": "Ayano",
+            "LastName": "Keiko",
+            "AvatarName": "Silica",
+            "Gender": "female"
+
+        }
+    ]
+}
