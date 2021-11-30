@@ -1,0 +1,84 @@
+{
+    "SAO_charecters": [
+        {
+            "FirstName": "Kirigaya",
+            "LastName": "Kazuto",
+            "AvatarName": "Kirito",
+            "Gender": "Male",
+            "BirthdateOrFirstScene" : "2008-10-07"
+
+        },
+        {
+            "FirstName": "Yuki",
+            "LastName": "Asuna",
+            "AvatarName": "Asuna",
+            "Gender": "Female",
+            "BirthdateOrFirstScene" : "2007-09-30"
+
+        },
+        {
+            "FirstName": "Yui",
+            "LastName": "N/A",
+            "AvatarName": "Yui-MHCP001",
+            "Gender": "Female/A.I",
+            "BirthdateOrFirstScene" : "2024-10-30"
+
+        },
+        {
+            "FirstName": "Tsuboi",
+            "LastName": "Ryotaro",
+            "AvatarName": "Klein",
+            "Gender": "Male",
+            "BirthdateOrFirstScene" : "2024-12-24"
+
+        },
+        {
+            "FirstName": "Kirigaya",
+            "LastName": "Suguha",
+            "AvatarName": "Leafa",
+            "Gender": "female",
+            "BirthdateOrFirstScene" : "2009-04-19"
+
+        },
+        {
+            "FirstName": "Kikuoka",
+            "LastName": "Seijiro",
+            "AvatarName": "Kurisuhaito",
+            "Gender": "Male",
+            "BirthdateOrFirstScene" : "2026-04-29"
+
+        },
+        {
+            "FirstName": "Alice",
+            "LastName": "Zuberg",
+            "AvatarName": "N/A",
+            "Gender": "female",
+            "BirthdateOrFirstScene" : "2026-06-28"
+
+        },
+        {
+            "FirstName": "Asada",
+            "LastName": "Shino",
+            "AvatarName": "Sinon",
+            "Gender": "female",
+            "BirthdateOrFirstScene" : "2009-08-21"
+
+        },
+        {
+            "FirstName": "Yujio",
+            "LastName": "N/A",
+            "AvatarName": "N/A",
+            "Gender": "Male",
+            "BirthdateOrFirstScene" : "2026-06-28"
+
+        },
+        {
+            "FirstName": "Ayano",
+            "LastName": "Keiko",
+            "AvatarName": "Silica",
+            "Gender": "female",
+            "BirthdateOrFirstScene" : "2010-10-04"
+
+        }
+    ]
+}
